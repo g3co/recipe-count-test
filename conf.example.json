@@ -1,0 +1,12 @@
+{
+  "postcode_counter" : {
+    "postcode": "10120",
+    "from": 10,
+    "to": 15
+  },
+  "search_by_name" : [
+    "Potato",
+    "Veggie",
+    "Mushroom"
+  ]
+}
